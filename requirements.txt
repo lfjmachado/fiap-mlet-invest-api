@@ -1,0 +1,5 @@
+investimentpy
+fastapi
+matplotlib
+pandas
+uvicorn
